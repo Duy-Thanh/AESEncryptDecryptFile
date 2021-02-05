@@ -1,0 +1,10 @@
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.csprojAssemblyReference.cache
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.Properties.Resources.resources
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.csproj.GenerateResource.cache
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.csproj.CoreCompileInputs.cache
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\bin\Debug\AESEncryptDecryptFile_Launcher.exe
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\bin\Debug\AESEncryptDecryptFile_Launcher.pdb
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.exe
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.pdb
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\bin\Debug\AESEncryptDecryptFile_Launcher.exe.config
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.Form1.resources
