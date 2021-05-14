@@ -1,10 +1,11 @@
 # AESEncryptDecryptFile
 AESEncryptDecryptFile Official Respository
+
 AESEncryptDecryptFile
 
 The official open source repository of AESEncryptDecryptFile.
 
-The project is programmed, developed, distributed and maintained by @ Duy-Thanh and @DuyThanhSoftwares.
+The project is programmed, developed, distributed and maintained by @Duy-Thanh and @DuyThanhSoftwares.
 
 Copyright (c) 2018 - 2019, 2019 - 2020, 2021 - present DuyThanhSoftwares. All rights reserved.
 
@@ -21,7 +22,7 @@ This project, and this repository still, will, has been, and is being maintained
 
 # Programming language
 
-The project uses 100% C # programming language
+The project uses 100% C# programming language
 
 # Prerequisites (For developers)
  - Visual Studio (Community) 2019 64-bit version or higher
