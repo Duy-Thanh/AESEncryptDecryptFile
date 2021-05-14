@@ -27,7 +27,7 @@ The project uses 100% C# programming language
 # Prerequisites (For developers)
  - Visual Studio (Community) 2019 64-bit version or higher
  - .NET Framework version 4.8 (64-bíts) or higher
- - .NET Framework Developer Pack (64-bits) or higher
+ - .NET Framework Developer Pack version 4.8 (64-bits) or higher
  - Microsoft Windows 10 64-bit (Home/Home Single Language/Enterprise/Professional) version 1903 or higher
 
 # Software license
