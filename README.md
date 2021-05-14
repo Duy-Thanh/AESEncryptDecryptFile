@@ -26,12 +26,12 @@ The project uses 100% C # programming language
 # Prerequisites (For developers)
  - Visual Studio (Community) 2019 64-bit version or higher
  - .NET Framework version 4.8 or higher
- - Microsoft Windows 10 (Home) version 1903 or higher
+ - Microsoft Windows 10 (Home/Home Single Language/Enterprise/Professional) version 1903 or higher
 
 # Software license
 - Software distributed under the MIT license. Please indicate the source when you distribute this software with the license attached below.
 
-MIT License
+# MIT License
 
 Copyright (c) 2018 - 2019, 2019 - 2020, 2021 - present Duy-Thanh All rights reserved.
 
