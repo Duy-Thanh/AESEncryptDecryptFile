@@ -12,6 +12,7 @@ From June 2021, DuyThanhSoftwares company will be renamed CyberDay Studio, but a
 The project is programmed, developed, distributed and maintained by @Duy-Thanh and @DuyThanhSoftwares (nowadays is CyberDay Studio).
 
 Copyright (c) 2018 - 2019, 2019 - 2020 DuyThanhSoftwares. All rights reserved.
+
 Copyright (c) 2021 CyberDay Studio. All rights reserved.
 
 # Software development history and timeline
