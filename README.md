@@ -8,6 +8,7 @@ The official open source repository of AESEncryptDecryptFile.
 
 From June 2021, DuyThanhSoftwares company will be renamed CyberDay Studio, but all copyrighted parts, both before and after the renaming process is completed, will remain the same.
 
+# Copyright
 The project is programmed, developed, distributed and maintained by @Duy-Thanh and @DuyThanhSoftwares (nowadays is CyberDay Studio).
 
 Copyright (c) 2018 - 2019, 2019 - 2020 DuyThanhSoftwares. All rights reserved.
