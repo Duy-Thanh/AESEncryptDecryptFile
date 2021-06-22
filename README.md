@@ -1,8 +1,6 @@
 # AESEncryptDecryptFile
 AESEncryptDecryptFile Official Respository
 
-AESEncryptDecryptFile
-
 The official open source repository of AESEncryptDecryptFile.
 
 The project is programmed, developed, distributed and maintained by @Duy-Thanh and @DuyThanhSoftwares.
