@@ -45,7 +45,7 @@ Copyright (c) 2018 - 2019, 2019 - 2020, 2021 - present Duy-Thanh All rights rese
 
 Copyright (c) 2018 - 2019, 2019 - 2020, 2021 - present DuyThanhSoftwares. All rights reserved.
 
-Copyright (c) 2018 - 2019, 2019 - 2020, 2021 - present CyberDay Studio. All rights reserved.
+Copyright (c) 2021 - present CyberDay Studio. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person trong a copy
 of this software and associated documentation files (the "Software"), to deal
