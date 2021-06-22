@@ -3,9 +3,15 @@ AESEncryptDecryptFile Official Respository
 
 The official open source repository of AESEncryptDecryptFile.
 
-The project is programmed, developed, distributed and maintained by @Duy-Thanh and @DuyThanhSoftwares.
+# NOTICE
+- Announcement of name change
 
-Copyright (c) 2018 - 2019, 2019 - 2020, 2021 - present DuyThanhSoftwares. All rights reserved.
+From June 2021, DuyThanhSoftwares company will be renamed CyberDay Studio, but all copyrighted parts, both before and after the renaming process is completed, will remain the same.
+
+The project is programmed, developed, distributed and maintained by @Duy-Thanh and @DuyThanhSoftwares (nowadays is CyberDay Studio).
+
+Copyright (c) 2018 - 2019, 2019 - 2020 DuyThanhSoftwares. All rights reserved.
+Copyright (c) 2021 CyberDay Studio. All rights reserved.
 
 # Software development history and timeline
 
@@ -36,6 +42,8 @@ The project uses 100% C# programming language
 Copyright (c) 2018 - 2019, 2019 - 2020, 2021 - present Duy-Thanh All rights reserved.
 
 Copyright (c) 2018 - 2019, 2019 - 2020, 2021 - present DuyThanhSoftwares. All rights reserved.
+
+Copyright (c) 2018 - 2019, 2019 - 2020, 2021 - present CyberDay Studio. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person trong a copy
 of this software and associated documentation files (the "Software"), to deal
