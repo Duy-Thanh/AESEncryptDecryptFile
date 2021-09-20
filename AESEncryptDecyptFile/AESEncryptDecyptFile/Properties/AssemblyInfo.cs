@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AESEncryptDecyptFile")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("AESEncryptDecryptFile")]
+[assembly: AssemblyDescription("AESEncryptDecryptFile")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("CyberDay Studio")]
 [assembly: AssemblyProduct("AESEncryptDecyptFile")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright © 2020 CyberDay Studio. All right reserved.")]
+[assembly: AssemblyTrademark("Copyright © 2020 CyberDay Studio. All right reserved.")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible

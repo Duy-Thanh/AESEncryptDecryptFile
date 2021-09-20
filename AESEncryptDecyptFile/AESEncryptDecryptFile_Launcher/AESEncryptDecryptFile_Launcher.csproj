@@ -41,6 +41,9 @@
     <ApplicationIcon>Untitled-1.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.5\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -53,17 +56,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -76,6 +70,7 @@
     </Compile>
     <None Include="app.config" />
     <None Include="app.manifest" />
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -87,58 +82,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\MaterialSkin.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Microsoft.CSharp.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Microsoft.WindowsAPICodePack.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Microsoft.WindowsAPICodePack.Shell.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Microsoft.WindowsAPICodePack.Shell.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Microsoft.WindowsAPICodePack.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Newtonsoft.Json.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Newtonsoft.Json.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\System.Data.DataSetExtensions.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\System.Data.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\System.Deployment.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\System.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\System.Drawing.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\System.Windows.Forms.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\System.Xml.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\System.Xml.Linq.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\xNet.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\AESEncryptDecyptFile.exe" />
     <Content Include="Untitled-1.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

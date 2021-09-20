@@ -1,0 +1,8 @@
+{
+    "name" : "AES Encrypt Decrypt File",
+    "version" : "v2.0",
+    "user_agent" : "AESEncryptDecryptFile/1.5.1.1909",
+    "need_to_update" : "false",
+    "priority_update_important" : "0",
+    "description_updates" : "" 
+}

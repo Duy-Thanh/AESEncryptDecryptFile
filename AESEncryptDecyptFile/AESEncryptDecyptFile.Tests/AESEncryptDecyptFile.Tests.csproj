@@ -58,9 +58,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AESEncryptDecyptFile\AESEncryptDecyptFile.csproj">
+    <ProjectReference Include="..\AESEncryptDecyptFile\AESEncryptDecryptFile.csproj">
       <Project>{571282BD-5261-4D00-9DBA-41CD2CF2D9A9}</Project>
-      <Name>AESEncryptDecyptFile</Name>
+      <Name>AESEncryptDecryptFile</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

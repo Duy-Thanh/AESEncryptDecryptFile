@@ -254,7 +254,7 @@ namespace AESEncryptDecryptFile_Launcher
             if (check == false)
             {
                 Console.WriteLine("Resources corrupted. Re-extracting resources and replace all old version of resources with lastest version......");
-                ExtractResources(AppDomain.CurrentDomain.BaseDirectory.ToString());
+                //ExtractResources(AppDomain.CurrentDomain.BaseDirectory.ToString());
             }
 
             else if (check != false || check == true)
@@ -268,7 +268,8 @@ namespace AESEncryptDecryptFile_Launcher
         {
             File.Create("LAUNCHER");
             Process process = new Process();
-            process.StartInfo.FileName = AppDomain.CurrentDomain.BaseDirectory.ToString() + @"\\AESEncryptDecryptFile.exe";
+            string filePath = "AESEncryptDecryptFile.exe";
+            process.StartInfo.FileName = filePath;
             process.Start();
         }
 
@@ -276,41 +277,41 @@ namespace AESEncryptDecryptFile_Launcher
         {
             string pathExtract = path;
 
-            // AESEncryptDecryptFile.exe
-            File.WriteAllBytes(path + "\\AESEncryptDecryptFile.exe",
-                Resources.AESEncryptDecyptFile);
+            //// AESEncryptDecryptFile.exe
+            //File.WriteAllBytes(path + "\\AESEncryptDecryptFile.exe",
+            //    Resources.AESEncryptDecyptFile);
 
-            //MaterialSkin.dll
-            File.WriteAllBytes(path + "\\MaterialSkin.dll", 
-                Resources.MaterialSkin);
+            ////MaterialSkin.dll
+            //File.WriteAllBytes(path + "\\MaterialSkin.dll", 
+            //    Resources.MaterialSkin);
 
-            // xNet.dll
-            File.WriteAllBytes(path + "\\xNet.dll", 
-                Resources.xNet);
+            //// xNet.dll
+            //File.WriteAllBytes(path + "\\xNet.dll", 
+            //    Resources.xNet);
 
-            // Newtonsoft.Json.dll
-            File.WriteAllBytes(path + "\\Newtonsoft.Json.dll", 
-                Resources.Newtonsoft_Json);
+            //// Newtonsoft.Json.dll
+            //File.WriteAllBytes(path + "\\Newtonsoft.Json.dll", 
+            //    Resources.Newtonsoft_Json);
 
-            // Newtonsoft.Json.xml
-            File.WriteAllText(path + "\\Newtonsoft.Json.xml",
-                Resources.Newtonsoft_Json1);
+            //// Newtonsoft.Json.xml
+            //File.WriteAllText(path + "\\Newtonsoft.Json.xml",
+            //    Resources.Newtonsoft_Json1);
 
-            // Microsoft.WindowsAPICodePack.dll
-            File.WriteAllBytes(path + "\\Microsoft.WindowsAPICodePack.dll", 
-                Resources.Microsoft_WindowsAPICodePack);
+            //// Microsoft.WindowsAPICodePack.dll
+            //File.WriteAllBytes(path + "\\Microsoft.WindowsAPICodePack.dll", 
+            //    Resources.Microsoft_WindowsAPICodePack);
 
-            // Microsoft.WindowsAPICodePack.xml
-            File.WriteAllText(path + "\\Microsoft.WindowsAPICodePack.xml", 
-                Resources.Microsoft_WindowsAPICodePack1);
+            //// Microsoft.WindowsAPICodePack.xml
+            //File.WriteAllText(path + "\\Microsoft.WindowsAPICodePack.xml", 
+            //    Resources.Microsoft_WindowsAPICodePack1);
 
-            // Microsoft.WindowsAPICodePack.Shell.dll
-            File.WriteAllBytes(path + "Microsoft.WindowsAPICodePack.Shell.dll",
-                Resources.Microsoft_WindowsAPICodePack_Shell);
+            //// Microsoft.WindowsAPICodePack.Shell.dll
+            //File.WriteAllBytes(path + "Microsoft.WindowsAPICodePack.Shell.dll",
+            //    Resources.Microsoft_WindowsAPICodePack_Shell);
 
-            // Microsoft.WindowsAPICodePack.Shell.xml
-            File.WriteAllText(path + "\\Microsoft.WindowsAPICodePack.Shell.xml", 
-                Resources.Microsoft_WindowsAPICodePack_Shell1);
+            //// Microsoft.WindowsAPICodePack.Shell.xml
+            //File.WriteAllText(path + "\\Microsoft.WindowsAPICodePack.Shell.xml", 
+            //    Resources.Microsoft_WindowsAPICodePack_Shell1);
 
             // Extract .NET Framework DLL library files
             //
@@ -322,41 +323,41 @@ namespace AESEncryptDecryptFile_Launcher
             // or install .NET Framework Runtime (version 4.0 or higher) to run this application!!
             //
 
-            // System.dll
-            File.WriteAllBytes(path + "\\System.dll",
-                Resources.System);
+            //// System.dll
+            //File.WriteAllBytes(path + "\\System.dll",
+            //    Resources.System);
 
-            // System.Xml.dll
-            File.WriteAllBytes(path + "\\System.Xml.dll",
-                Resources.System_Xml);
+            //// System.Xml.dll
+            //File.WriteAllBytes(path + "\\System.Xml.dll",
+            //    Resources.System_Xml);
 
-            // System.Xml.Linq.dll
-            File.WriteAllBytes(path + "\\System.Xml.Linq.dll",
-                Resources.System_Xml_Linq);
+            //// System.Xml.Linq.dll
+            //File.WriteAllBytes(path + "\\System.Xml.Linq.dll",
+            //    Resources.System_Xml_Linq);
 
-            // System.Drawing.dll
-            File.WriteAllBytes(path + "\\System.Drawing.dll",
-                Resources.System_Drawing);
+            //// System.Drawing.dll
+            //File.WriteAllBytes(path + "\\System.Drawing.dll",
+            //    Resources.System_Drawing);
 
-            // System.Data.dll
-            File.WriteAllBytes(path + "\\System.Data.dll",
-                Resources.System_Data);
+            //// System.Data.dll
+            //File.WriteAllBytes(path + "\\System.Data.dll",
+            //    Resources.System_Data);
 
-            // System.Data.DataSetExtensions.dll
-            File.WriteAllBytes(path + "\\System.Data.DataSetExtensions.dll",
-                Resources.System_Data_DataSetExtensions);
+            //// System.Data.DataSetExtensions.dll
+            //File.WriteAllBytes(path + "\\System.Data.DataSetExtensions.dll",
+            //    Resources.System_Data_DataSetExtensions);
 
-            // System.Deployment.dll
-            File.WriteAllBytes(path + "\\System.Deployment.dll",
-                Resources.System_Deployment);
+            //// System.Deployment.dll
+            //File.WriteAllBytes(path + "\\System.Deployment.dll",
+            //    Resources.System_Deployment);
 
-            // System.Windows.Forms.dll
-            File.WriteAllBytes(path + "\\System.Windows.Forms.dll",
-                Resources.System_Windows_Forms);
+            //// System.Windows.Forms.dll
+            //File.WriteAllBytes(path + "\\System.Windows.Forms.dll",
+            //    Resources.System_Windows_Forms);
 
-            // Microsoft.CSharp.dll
-            File.WriteAllBytes(path + "\\Microsoft.CSharp.dll",
-                Resources.Microsoft_CSharp);
+            //// Microsoft.CSharp.dll
+            //File.WriteAllBytes(path + "\\Microsoft.CSharp.dll",
+            //    Resources.Microsoft_CSharp);
         }
 
         [STAThread]
@@ -365,6 +366,8 @@ namespace AESEncryptDecryptFile_Launcher
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             isCheckResourceFull();
+
+            // We don't need Form1 show, so we not to add line to run Form1.
         }
     }
 }

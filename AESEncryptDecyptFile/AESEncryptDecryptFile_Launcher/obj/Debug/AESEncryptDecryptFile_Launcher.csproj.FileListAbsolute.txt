@@ -8,3 +8,16 @@ F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\A
 F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.pdb
 F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\bin\Debug\AESEncryptDecryptFile_Launcher.exe.config
 F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.Form1.resources
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\bin\Debug\BouncyCastle.Crypto.dll
+F:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.csproj.CopyComplete
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\bin\Debug\AESEncryptDecryptFile_Launcher.exe.config
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\bin\Debug\AESEncryptDecryptFile_Launcher.exe
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\bin\Debug\AESEncryptDecryptFile_Launcher.pdb
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.csproj.AssemblyReference.cache
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.Properties.Resources.resources
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.csproj.GenerateResource.cache
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.csproj.CoreCompileInputs.cache
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.csproj.CopyComplete
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.exe
+D:\Projects MSVS\AESEncryptDecyptFile\AESEncryptDecryptFile_Launcher\obj\Debug\AESEncryptDecryptFile_Launcher.pdb
