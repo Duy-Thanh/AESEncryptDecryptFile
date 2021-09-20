@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AESEncryptDecryptClassLibraries", "AESEncryptDecryptClassLibraries\AESEncryptDecryptClassLibraries.csproj", "{24E497E3-F3A7-40EC-8E49-C697D3AF9059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E497E3-F3A7-40EC-8E49-C697D3AF9059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E497E3-F3A7-40EC-8E49-C697D3AF9059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E497E3-F3A7-40EC-8E49-C697D3AF9059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E497E3-F3A7-40EC-8E49-C697D3AF9059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B2D7E18-D55F-417E-A157-1282846B2E4E}
+	EndGlobalSection
+EndGlobal
