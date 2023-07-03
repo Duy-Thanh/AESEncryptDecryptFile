@@ -1,7 +1,7 @@
 # AESEncryptDecryptFile
 The official open source repository of AESEncryptDecryptFile.
 
-# This project is no longer in development and this repository will be read-only
+# Deprecated
 - This project is no longer in development and this repository will be made read-only for historical purposes. This means this app will no longer receive new security patches, so please use alternatives
 
 # Copyright
