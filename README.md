@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # AESEncryptDecryptFile
 The official open source repository of AESEncryptDecryptFile.
 
