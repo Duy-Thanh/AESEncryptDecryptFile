@@ -9,11 +9,6 @@ The official open source repository of AESEncryptDecryptFile.
 # Copyright
 Copyright (c) 2018 - 2022 CyberDay Studio. All rights reserved.
 
-# Software development history and timeline
-The software was first created in 2018 by me. However, development was suspended due to private life problems. A year later, the project was restarted and development continued until 2020.
-
-This project, and this repository still, will, has been, and is being maintained by me. All contributions from the community are warmly welcomed.
-
 # Programming language
 
 The project uses 100% C# programming language
